@@ -1,6 +1,6 @@
 - Hell0, I’m @Gol0DRoger aka Rishabh.
 - I’m interested in becoming a good coder.
-- 🌱 I’m currently learning Java & Python.
+- 🌱 I’m currently learning Java & javaScript.
 - How to reach me :https://www.instagram.com/rishab_106/
 - X :https://twitter.com/RishabhRawat106
 
