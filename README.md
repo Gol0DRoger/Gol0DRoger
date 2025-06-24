@@ -1,7 +1,6 @@
 - Hell0, I’m @Rex_Roger aka Rishabh.
 - I’m interested in becoming a good coder.
-- 🌱 I’m currently learning Java & javaScript.
-- How to reach me :https://www.instagram.com/rishab_106/
+- 🌱 I’m currently learning Java & Python.
 - X :https://twitter.com/RishabhRawat106
 
 <!---
