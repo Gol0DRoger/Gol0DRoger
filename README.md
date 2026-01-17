@@ -20,8 +20,8 @@ I am a Final Year B.Tech Computer Science & Engineering (AI) student at IIMT Col
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [www.linkedin.com/in/rishabh-rawat-4b5692248/?skipRedirect=true] [cite: 6]
-- **Portfolio:** [https://portfolio-rishabh-tan.vercel.app] [cite: 6]
+- **LinkedIn:** [www.linkedin.com/in/rishabh-rawat-4b5692248/?skipRedirect=true] 
+- **Portfolio:** [https://portfolio-rishabh-tan.vercel.app] 
 - **Email:** rishabhrawat106rex@gmail.com [cite: 4]
 - **X:** :https://twitter.com/RishabhRawat106
 
