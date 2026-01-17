@@ -23,7 +23,7 @@ I am a Final Year B.Tech Computer Science & Engineering (AI) student at IIMT Col
 - **LinkedIn:** www.linkedin.com/in/rishabh-rawat-4b5692248/?skipRedirect=true
 - **Portfolio:** https://portfolio-rishabh-tan.vercel.app
 - **Email:** rishabhrawat106rex@gmail.com
-- **X:** :https://twitter.com/RishabhRawat106
+- **X:** https://twitter.com/RishabhRawat106
 
 <!---
 Gol0DRoger/Gol0DRoger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
