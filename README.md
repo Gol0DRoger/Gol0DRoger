@@ -1,4 +1,4 @@
-# Hi, I'm Rishabh Rawat 👋
+# Hi, I'm Rishabh Rawat
 ### Full Stack Developer | AI Enthusiast
 
 I am a Final Year B.Tech Computer Science & Engineering (AI) student at IIMT College of Engineering, passionate about building scalable web applications and exploring AI-driven software solutions.
